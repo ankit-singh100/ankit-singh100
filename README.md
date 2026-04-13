@@ -100,18 +100,6 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [Project 1](#) | Brief description of your first project | Python, FastAPI, PostgreSQL |
-| [Project 2](#) | Brief description of your second project | Node.js, Express, MongoDB |
-| [Project 3](#) | Brief description of your third project | Docker, Kubernetes, AWS |
-
-*Coming Soon: More detailed project showcases with links to repositories*
-
----
-
 ## 📚 Learning & Development
 
 - 📖 Currently studying: **Advanced System Design & Kubernetes**
@@ -125,12 +113,12 @@ me.say_hi()
 
 | Goal | Status | Progress |
 |------|--------|----------|
-| 🧩 Solve 300+ DSA problems | 🔄 In Progress | 55% |
-| ☁️ AWS Solutions Architect Certification | 📅 Planned | 20% |
-| 🐳 Master Kubernetes & Container Orchestration | 🔄 In Progress | 60% |
-| 🔨 Ship 3 production-ready backend projects | 🔄 In Progress | 80% |
-| 📖 Contribute to open source | 🔄 In Progress | 70% |
-| 🌐 Build a personal tech blog | 🔄 In Progress | 40% |
+| 🧩 Solve 300+ DSA problems | 🔄 In Progress |
+| ☁️ AWS Solutions Architect Certification | 📅 Planned | 
+| 🐳 Master Kubernetes & Container Orchestration | 🔄 In Progress | 
+| 🔨 Ship 3 production-ready backend projects | 🔄 In Progress | 
+| 📖 Contribute to open source | 🔄 In Progress | 
+| 🌐 Build a personal tech blog | 🔄 In Progress | 
 
 ---
 
@@ -139,10 +127,8 @@ me.say_hi()
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-singh100)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ankit-singh100-portfolio.com)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ankit.singh@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankit-singh100)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ankit_singh100)
 
 </div>
 
