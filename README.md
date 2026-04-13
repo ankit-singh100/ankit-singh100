@@ -1,78 +1,124 @@
-# 👋 Hi, I'm Ankit Singh  
+<div align="center">
 
-### 💻 Full Stack Developer | 🧠 Problem Solver | 🚀 Tech Explorer  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+a+Developer+👋;Backend+Engineer+%7C+API+Architect;Python+%7C+Node.js+%7C+Java;Building+Scalable+Systems+🔧)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile!  
-I’m passionate about **building full-stack web applications**, designing clean user interfaces, and integrating powerful backend logic to create meaningful software solutions.  
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=2F80ED&label=Profile+Views" alt="Profile Views"/>
 
----
-
-## 🧩 About Me
-
-- 🌱 I love learning new technologies and improving every day  
-- 🧑‍💻 I enjoy turning ideas into working applications  
-- ⚙️ I follow **Agile** methodology for my project development  
-- 📫 Reach me at: **asrankit456@gmail.com**  
-- 🌍 Based in **Nepal**
+</div>
 
 ---
 
-## 🔧 Tech Stack
+## 👨‍💻 About Me
 
-**Frontend:**  
-React.js • Next.js • Tailwind CSS • HTML • CSS • JavaScript • TypeScript  
+```python
+class Developer:
+    def __init__(self):
+        self.name         = "Ankit Singh Rajbanshii"
+        self.location     = "Kathmandu, Nepal 🇳🇵"
+        self.role         = "Backend Developer"
+        self.languages    = ["Python", "Node.js", "Java"]
+        self.databases    = ["PostgreSQL", "MongoDB", "Redis"]
+        self.focus        = ["REST APIs", "Microservices", "System Design"]
+        self.learning     = ["Cloud Architecture", "Kubernetes", "DSA"]
+        self.open_to      = ["Collaborations", "Open Source", "Remote Work"]
 
-**Backend:**  
-Node.js • Express.js • NestJS • Prisma ORM  
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something great together.")
 
-**Database:**  
-PostgreSQL • MySQL • MongoDB  
-
-**Tools & Others:**  
-Git • GitHub • Postman • REST API • JWT Auth • Docker  
-
----
-
-## 🚀 Featured Projects
-
-### 🏠 [Propmart](https://github.com/your-username/propmart)
-> A real estate platform for buying, renting, or selling properties — integrated with **Khalti** and **eSewa** payments.  
-> Built with React, Next.js, Tailwind CSS, Prisma, and PostgreSQL.  
-
----
-
-## 📦 Other Projects
-
-| Project | Description | Stars | Visibility |
-|----------|--------------|-------|-------------|
-| [E-Commerce](https://github.com/your-username/E-Commerce) | Online store with cart, checkout & user management | ⭐ 1 | 🟢 Public |
-| [Frontend](https://github.com/your-username/Frontend) | UI for frontend development experiments | ⭐ 1 | 🟢 Public |
-| [realestate_website](https://github.com/your-username/realestate_website) | Real estate website built for learning frontend integration | ⭐ 2 | 🟢 Public |
-| [ThinkBoard](https://github.com/your-username/ThinkBoard) | A collaborative note board app | ⭐ 1 | 🟢 Public |
-| [TO-DO-LIST](https://github.com/your-username/TO-DO-LIST) | Simple task manager app | ⭐ 4 | 🟢 Public |
-| [ChatApp-API](https://github.com/your-username/ChatApp-API) | Backend API for real-time chat app | ⭐ 3 | 🟢 Public |
-| [file-upload](https://github.com/your-username/file-upload) | File upload demo using Node.js and Multer | ⭐ 2 | 🟢 Public |
-| [Inventory-Management-System](https://github.com/your-username/Inventory-Management-System) | Manage and track inventory items efficiently | ⭐ 3 | 🟢 Public |
-| [Project](https://github.com/your-username/Project) | Academic or practice project repository | ⭐ 3 | 🟢 Public |
-| [React-project](https://github.com/your-username/React-project) | React-based learning and demo project | ⭐ 3 | 🟢 Public |
-| [todos-api](https://github.com/your-username/todos-api) | REST API for managing todo tasks | ⭐ 2 | 🟢 Public |
+me = Developer()
+me.say_hi()
+```
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+
+### Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
-### ✨ “Talk is cheap. Show me the code.” — Linus Torvalds
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=2F80ED&icon_color=2F80ED"/>
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=default&hide_border=true&title_color=2F80ED"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏗️ Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_BEST_REPO_1&theme=default&hide_border=true&title_color=2F80ED)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_BEST_REPO_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_BEST_REPO_2&theme=default&hide_border=true&title_color=2F80ED)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_BEST_REPO_2)
+
+</div>
+
+---
+
+## 🎯 2025 Goals
+
+| Goal | Status |
+|------|--------|
+| 🧩 Solve 300+ DSA problems | 🔄 In Progress |
+| ☁️ AWS Solutions Architect Certification | 📅 Planned |
+| 🐳 Master Kubernetes & Container Orchestration | 🔄 In Progress |
+| 🔨 Ship 3 production-ready backend projects | 🔄 In Progress |
+| 📖 Contribute to open source | 🔄 In Progress |
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Make it work, make it right, make it fast."* — Kent Beck
+
+</div>
