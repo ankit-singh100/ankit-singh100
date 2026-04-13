@@ -16,7 +16,7 @@ class Developer:
         self.name         = "Ankit Singh Rajbanshii"
         self.location     = "Kathmandu, Nepal 🇳🇵"
         self.role         = "Backend Developer"
-        self.languages    = ["Python", "Node.js", "Java"]
+        self.languages    = ["Python", "Node.js", "JavaScript"]
         self.databases    = ["PostgreSQL", "MongoDB", "Redis"]
         self.focus        = ["REST APIs", "Microservices", "System Design"]
         self.learning     = ["Cloud Architecture", "Kubernetes", "DSA"]
