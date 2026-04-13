@@ -35,11 +35,11 @@ me.say_hi()
 
 | 🎯 Goal | 📊 Progress | ⏱️ Timeline |
 |---------|-------------|-----------|
-| Master Backend Architecture | 75% | 2026 |
-| Kubernetes & Cloud | 60% | Q3 2026 |
-| 300+ DSA Problems | 55% | Q4 2026 |
-| Production Projects | 80% | On Track |
-| Open Source Contributions | 70% | Ongoing |
+| Master Backend Architecture | 40% | 2026 |
+| Kubernetes & Cloud | 0% | Q3 2026 |
+| 300+ DSA Problems | 5% | Q4 2026 |
+| Production Projects | 50% | On Track |
+| Open Source Contributions | 0% | Ongoing |
 
 ---
 
