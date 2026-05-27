@@ -2,7 +2,7 @@
 
 I'm a backend developer from Kathmandu, Nepal. I've been writing code seriously for the past 3 months and I'm fully focused on building real, working backend systems — not just tutorials I followed and forgot.
 
-I work with **NestJS**, **TypeScript**, **PostgreSQL**, and **Prisma**. I care about clean architecture, proper database design, and writing APIs that actually make sense to use.
+I work with **Python**, **Nodejs**, and **PostgreSQL**. I care about clean architecture, proper database design, and writing APIs that actually make sense to use.
 
 I'm looking for backend roles — remote or onsite in Nepal — where I can grow fast, contribute real work, and learn from engineers who know what they're doing.
 
@@ -36,11 +36,11 @@ A backend system for managing products and stock built with **NestJS + TypeScrip
 
 ## My Stack
 
-**Daily drivers:** TypeScript · NestJS · Node.js · PostgreSQL · Prisma · REST APIs
+**Daily drivers:**  Node.js · PostgreSQL · Python(FastAPI) · REST APIs
 
-**Also working with:** Docker · Redis · MongoDB · Git · Linux · Postman
+**Also working with:** Docker · Redis  · Git · Linux · Postman
 
-**Learning right now:** System Design · AWS · Kubernetes · DSA
+**Learning right now:** System Design 
 
 ---
 
