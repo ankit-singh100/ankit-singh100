@@ -66,16 +66,6 @@ I'm based in Kathmandu (+05:45 UTC) and I'm open to both remote and onsite work 
 
 If you're hiring, collaborating, or just want to talk backend — reach out.
 
-📧 **Email:** [asrankit456@gmail.com](mailto:asrankit456@gmail.com) ← *replace this*  
+📧 **Email:** [asrankit456@gmail.com](mailto:asrankit456@gmail.com)  
 💼 **LinkedIn:** [https://www.linkedin.com/in/ankit-singh-b86821254/](https://www.linkedin.com/in/ankit-singh-b86821254/)  
 🐙 **GitHub:** you're already here
-
----
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankit-singh100&show_icons=true&theme=default&hide_border=true&title_color=2F80ED&include_all_commits=true&count_private=true)](https://github.com/ankit-singh100)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-singh100&layout=compact&langs_count=6&theme=default&hide_border=true&title_color=2F80ED)](https://github.com/ankit-singh100)
-
-</div>
