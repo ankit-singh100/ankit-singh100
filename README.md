@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ankit%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Kathmandu%2C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=58&descSize=18)
 
 <!-- TYPING ANIMATION - demolab is stable -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;NestJS+%7C+TypeScript+%7C+PostgreSQL;Building+real+APIs+that+actually+work;Open+to+remote+%26+onsite+roles)](https://github.com/ankit-singh100)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;NodeJS+%7C+Python(FastAPI)+%7C+PostgreSQL;Building+real+APIs+that+actually+work;Open+to+remote+%26+onsite+roles)](https://github.com/ankit-singh100)
 
 </div>
 
